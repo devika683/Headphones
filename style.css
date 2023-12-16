@@ -1,0 +1,301 @@
+body{
+    width:100%;
+}
+header{
+    background-image: url("./yellow\ headphone.jpeg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px;
+text-align: center;
+    top: 10px;
+
+}
+
+
+
+
+.btn1{
+    border-radius: 20px;
+ 
+
+}
+#text{
+    position: absolute;
+    top: 45px;
+    left: 5px;
+}
+.buy{
+    text-align: center;
+    padding: 50px;
+}
+
+
+
+
+
+.banner{
+    align-items: center;
+    margin: 300px;
+    margin-left: 10%;
+    width: 26%;
+    margin-top: 3%;
+   position: absolute;
+   top: 200px;
+    
+}
+a{
+   display: block;
+
+}
+.c1{
+    text-decoration: none;
+    color: black;
+}
+.c2{
+    text-decoration: none;
+    color: black;
+}
+h3{
+
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.class1{
+    background-color:white ;
+    font-size: large;
+    font-family:Arial, Helvetica, sans-serif ;
+    margin: 100px;
+    padding: 3px;
+    
+}
+.class2{
+    background-color: rgb(243, 177, 90);
+ 
+  
+    
+}
+.heading1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 40px;
+
+}
+.heading3
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.class3{
+    width: 100%;
+
+}
+.headphonerow{
+background-color: white;
+display: flex;
+width: 100%;
+height: 100%;
+align-items: center;
+justify-content: center;
+
+
+}
+.box{
+margin: 30px;
+    width: 40%;
+ display: flex;
+ flex-direction: column;
+ background-color: rgb(243, 177, 90) ;
+}
+.head1-text{
+   align-items: center;
+}
+
+.row1{
+    display: flex;
+}
+
+
+.row2{
+    display: flex;
+
+}
+.class4{
+    align-items: center;
+    padding: 10px;
+    margin: 70px;
+    font-size: larger;
+}
+.containerc1{
+    width:70%;
+    display: flex;
+    justify-content: space-between;
+ 
+    
+}
+.cl1{
+    align-items: center;
+    width: 60%;
+
+}
+
+.class5{
+ 
+    
+    background-color:  rgb(243, 177, 90);
+    padding: 50px;
+display: flex;
+    justify-content: center;
+    width: 100%;
+
+}
+.heading5{
+    color: white;
+    margin: 20px;
+    font-size: larger;
+}
+.heading6{
+    color: white;
+    margin: 20px;
+    font-size: x-large;
+}
+.btn1{
+  
+    
+    border-radius: 30px;
+ width: 10%;
+ height: 30%;
+
+ margin: 20px;
+    
+
+}
+
+
+.row3{
+    display: flex;
+    padding: 0px;
+
+}
+.class6{
+    padding: 30px;
+    margin: 10px;
+}
+.heading7{
+    font-size: xx-large;
+    text-align: center;
+    padding: 10px;
+}
+.col1{
+    padding: 30px;
+   
+    
+}
+.col2{
+    padding: 30px;
+}
+.col3{
+    padding: 30px;
+}
+.col4{
+    padding: 30px;
+}
+p{
+    font-size:x-large;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+iframe{
+    width: 100%;
+}
+.footerf1{
+    padding: 20px;
+display: inline block;
+   
+
+    margin: 50px;
+}
+.images1{
+    position: relative;
+    left: 80%;
+  bottom: 50px;
+}
+
+
+
+.buttonhead{
+    position: relative;
+    top: -200px;
+    width: 30%;
+    padding: 3px;
+}
+.number1{
+    position: relative;
+    font-weight:bolder;
+    color: rgb(246, 246, 166);
+    font-size: 80px;
+    top: -100px;
+    left: -100px;
+
+  
+}
+.head1-text{
+
+   margin-top: 0%;
+}
+
+row2{
+    display: flex;
+    margin-top: 5px;
+    margin: 80px;
+   }
+   .img8:hover{
+transform: scale(1.2);
+filter:brightness(1);
+
+
+  }
+.img7:hover{
+transform: scale(1.2);
+filter:brightness(1);
+}
+.img6:hover{
+transform: scale(1.2);
+filter:brightness(1);
+}
+    
+.img5:hover{
+ transform: scale(1.2);
+filter:brightness(1);
+}
+.img4:hover{
+transform: scale(1.2);
+filter:brightness(1);
+  }
+  .img3:hover{
+    transform: scale(1.2);
+    filter:brightness(1);
+      }
+      .img2:hover{
+        transform: scale(1.2);
+        filter:brightness(1);
+          }
+          .img1:hover{
+            transform: scale(1.2);
+            filter:brightness(1);
+              }
+              .h2{
+                padding: 30px;
+                margin: 30px;
+              }
+
+              .col-3{
+                padding: 30px;
+              }
